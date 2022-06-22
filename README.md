@@ -23,5 +23,7 @@ Here are some ideas to get you started:
 ### Connect
 
 [<img aligh="left" alt="LinkedIn" width="44px" src="assets/linkedin.svg" style="filter: invert(32%) sepia(98%) saturate(975%) hue-rotate(171deg) brightness(91%) contrast(102%);"/>][linkedin]
+[<img aligh="left" alt="twitter" width="44px" src="assets/twitter.svg" style="filter: invert(49%) sepia(71%) saturate(1950%) hue-rotate(176deg) brightness(99%) contrast(91%);"/>][twitter]
 
 [linkedin]: https://www.linkedin.com/in/bokleynen
+[twitter]: https://twitter.com/bokleynen
